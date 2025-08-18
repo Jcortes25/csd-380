@@ -1,2 +1,5 @@
-# csd-380
-online class for csd-380
+# CSD 380 DevOps
+
+## Contributors
+- Instructor: Darren Osier
+- Student: James Cortes
